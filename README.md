@@ -5,7 +5,7 @@ from Developer import Thiago
 
 class AbountMe(ParsivalT):
     def __init__(self):
-        super()__init__(
+        super().__init__(
             name = "Thiago",
             area = "Back-end",
             work = None,
