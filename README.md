@@ -1,9 +1,9 @@
-### Hey 🖖 I'm Thiago Dev
+### Hey 🖖 I'm Thiago
 
 ```js
 from Developer import Thiago
 
-class AbountMe(ParsivalT):
+class AbountMe(Thiago):
     def __init__(self):
         super().__init__(
             name = "Thiago",
