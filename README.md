@@ -43,4 +43,11 @@ class AbountMe(Thiago):
 
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiago-dev-cyber&bg_color=241f31&color=ffffff&line=9a9996&point=26a269&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   </div>
+
+  <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiago-dev-cyber/thiago-dev-cyber/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiago-dev-cyber/thiago-dev-cyber/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiago-dev-cyber/thiago-dev-cyber/output/github-contribution-grid-snake.svg">
+</picture>
