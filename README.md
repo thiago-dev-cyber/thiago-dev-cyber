@@ -15,7 +15,14 @@ class AbountMe(Thiago):
 
 ##
 
-<div align="center"> <a href="https://github.com/thiago-dev-cyber"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiago-dev-cyber&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-dev-cyber&theme=dark&hide_border=false&&layout=compact"/> </a> </div>
+<div align="center"> <a href="https://github.com/thiago-dev-cyber"> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiago-dev-cyber&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true" /> 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiago-dev-cyber&theme=dark" height="150em" />
+</div>
+
+<div align="center">
+  
+</div>
 
 ##  
 
