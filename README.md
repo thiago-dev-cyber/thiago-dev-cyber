@@ -36,7 +36,7 @@ class AbountMe(Thiago):
   
 -  🌱 I'm familiar with Git, Linux⚙️, Python.
 
--   👀 I’m interested in Open Source Projects and Artificial intelligence.
+-   👀 I’m interested in Open Source Projects and Artificial intelligence. 
   
 
 
